@@ -1,2 +1,1 @@
-https://Ultimate5:gitLoader1@db-ip.com/102.89.82.65
-socks5://
+socks5://socks5://Ultimate5:gitLoader1@102.89.82.65:1080
