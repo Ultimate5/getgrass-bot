@@ -1,1 +1,1 @@
-socks5://Ultimate5:gitLoader1@102.89.82.65:1080
+socks5://Ultimate5:gitLoader1@102.89.82.65:
